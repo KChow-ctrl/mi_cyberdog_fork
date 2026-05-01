@@ -78,7 +78,7 @@ DEFAULT=0, LOCK=1, MANUAL=3, SEMI=13, EXPLOR=14, TRACK=15
 ## 开发环境
 
 - ROS2 **foxy**（官方文档写 Galactic 有误）
-- CyberDog IP: `199.166.55.21`（WiFi）/ `192.168.55.1`（USB）
+- CyberDog IP: `192.168.55.1`（USB）
 - SSH: `mi@` / 密码 `123`
 - 运控板 MCU: `root@192.168.55.233`
 
